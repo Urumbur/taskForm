@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/taskForm/static/css/main.d06b90ae.css",
+    "main.js": "/taskForm/static/js/main.4f4a7795.js",
+    "index.html": "/taskForm/index.html",
+    "main.d06b90ae.css.map": "/taskForm/static/css/main.d06b90ae.css.map",
+    "main.4f4a7795.js.map": "/taskForm/static/js/main.4f4a7795.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d06b90ae.css",
+    "static/js/main.4f4a7795.js"
+  ]
+}
